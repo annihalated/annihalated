@@ -1,6 +1,6 @@
 Hi, I'm Nihal :) 
 
-- I’m a researcher at the [Vidhi Centre for Legal Policy](https://vidhilegalpolicy.in "Vidhi Centre for Legal Policy"), where I work on healthcare regulation and transplant policy. 
+- I’m a researcher at [Vidhi](https://vidhilegalpolicy.in "Vidhi Centre for Legal Policy"), where I work on healthcare regulation. 
 - I write a blog called [afternoon walk](https://nihalsahu.substack.com). 
 - I occasionally publish essays at [nihalsahu.net](nihalsahu.net)
 
