@@ -1,13 +1,9 @@
-### Hi, I'm Nihal
+Hi, I'm Nihal :) 
 
-I’m a lawyer, researcher, and writer.
+- I’m a lawyer and researcher at the [Vidhi Centre for Legal Policy](https://vidhilegalpolicy.in "Vidhi Centre for Legal Policy"), where I work on organ transplant policy and healthcare regulation.
+- I write a blog called [afternoon walk](https://nihalsahu.substack.com). 
+- I occasionally publish essays on [nihalsahu.net](nihalsahu.net)
 
-My areas of competence do not have an identifiable common theme yet – this is something I’m still figuring out. I’m interested in a lot of things: doctrinal research, data science, constitutional law, finance, literature, and software. I will update this when I have a pithier and more focused sense of my research interests.
+Opinions expressed on this site are my own.
 
-I grew up in Chennai and Kozhikode, and now live in Delhi.
-
-I’m currently at Vidhi, where I use a combination of legal research and policy analysis to strengthen the framework for End of Life Care, understand healthcare provider accountability better, and improve pharmaceutical regulation. Opinions expressed on this site are my own.
-
-📫 How to reach me: [Email](iamnihalsahu[At]gmail{DOT}com)
-
-😄 Pronouns: He/Him, name pronounced as _Knee-haal_  
+You can get in touch with me by email at [nihal.sahu@vidhilegalpolicy.in](mailto:nihal.sahu@vidhilegalpolicy.in), or on [Twitter](https://x.com/annihalated). 
