@@ -6,4 +6,4 @@ Hi, I'm Nihal :)
 
 Opinions expressed on this site are my own.
 
-You can get in touch with me by email at [nihal.sahu@vidhilegalpolicy.in](mailto:nihal.sahu@vidhilegalpolicy.in), or on [Twitter](https://x.com/annihalated). 
+You can get in touch with me by email at nihal[dot]sahu[at]vidhilegalpolicy[dot]in, or on [Twitter](https://x.com/annihalated). 
