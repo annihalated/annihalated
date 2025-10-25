@@ -1,8 +1,7 @@
 Hi, I'm Nihal :) 
 
-- I’m a researcher at [Vidhi](https://vidhilegalpolicy.in "Vidhi Centre for Legal Policy"), where I work on healthcare regulation. 
-- I write a blog called [Leviathan](https://nihalsahu.substack.com). 
-- I write some notes at [nihalsahu.net](https://nihalsahu.net)
+- I’m a researcher at [Vidhi](https://vidhilegalpolicy.in "Vidhi Centre for Legal Policy")
+- I write at [nihalsahu.net](https://nihalsahu.net)
 
 Opinions expressed on this site are my own.
 
